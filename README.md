@@ -12,7 +12,7 @@ Record Project Belajar Membuat Aplikasi Android untuk Pemula from [Dicoding Indo
  ## Features
 #### Final Submission Checklists
 
-- [x] Display page about
+- [x] There is a ViewModelFactory
 - [x] Display button back at Action Bar
 - [x] A detail page appears when an item is clicked
 - [x] Display images and information in the format list
